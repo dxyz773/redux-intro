@@ -1,8 +1,8 @@
-# Redux Intro
-
-- Work in progress... 👩🏾‍💻
+# Redux Intro: The React-Redux Bank
 
 ### Made while taking Jonas Schmedtmann's - Ultimate React Course
+
+- Utilizing <a href="https://www.frankfurter.app/">Frankfurter API</a> for exchange rates
 
 ## Topics of Exploration:
 
