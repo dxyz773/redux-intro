@@ -7,7 +7,8 @@
 ## Topics of Exploration:
 
 1. Redux
-2. Redux Toolkit
+2. Redux Thunk
+3. Redux Toolkit
 
 ## Instructions To Start App:
 
@@ -17,7 +18,7 @@
 4. Install dependencies:
 
 ```
-  npm install
+  npm i
 ```
 
 5. Start App
